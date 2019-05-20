@@ -1,0 +1,5 @@
+El estudiante: ho
+con cedula: 72051587
+Se ha matriculado en el curso: [object Object]
+duracion del curso: [object Object]
+valor del curso: [object Object]
