@@ -1,5 +1,5 @@
 El estudiante: ho
 con cedula: 72051587
-Se ha matriculado en el curso: [object Object]
-duracion del curso: [object Object]
-valor del curso: [object Object]
+Se ha matriculado en el curso: typescript
+duracion del curso: 100
+valor del curso: 150000

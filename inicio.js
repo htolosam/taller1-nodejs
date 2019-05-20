@@ -50,5 +50,11 @@ if(!curso){
   }
 }else{
   //si existe creamos el archivo
+	console.log("informacion del curso: \r\n"
+		+"nombre del curso: "+curso.nombre+ "\r\n "
+		+ "id: "+curso.nombre+ "\r\n "
+		+ "valor: "+curso.valor+ "\r\n "
+		+ "duracion: "+curso.duracion+ "\r\n "
+	);
   crearArchivo(curso, argv.nombre, argv.cedula);
 }
